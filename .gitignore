@@ -1,0 +1,9 @@
+*.pytest_cache/
+*.egg-info/
+*__pycache__/
+*.swp
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.exe
